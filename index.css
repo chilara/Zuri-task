@@ -24,3 +24,14 @@ button{
     color: white;
     cursor: pointer;
 }
+
+button:hover{
+    background-color: #4E944F;
+    cursor: pointer;
+}
+
+form{ 
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+}
